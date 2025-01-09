@@ -11,3 +11,7 @@
           body {
             color: black;
           }
+
+          .has-text-align-center {
+            color: #000;
+          }
