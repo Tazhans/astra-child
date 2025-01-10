@@ -15,3 +15,8 @@
           .has-text-align-center {
             color: #000;
           }
+
+          .wp-block-button:hover {
+            color: #abb8c3;
+            background: #fff;
+          }
